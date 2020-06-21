@@ -1,5 +1,7 @@
-body {
-    background-color: #99b898;
+
+.header {
+    background: url(header1.jpg);
+    height: 100vh;
 }
 
 #content {
